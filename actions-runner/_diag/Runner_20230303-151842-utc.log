@@ -1,0 +1,126 @@
+[2023-03-03 15:18:42Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO HostContext] Well known config file 'Credentials': '/Users/britt/Downloads/myblog/actions-runner/.credentials'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO HostContext] Well known config file 'Runner': '/Users/britt/Downloads/myblog/actions-runner/.runner'
+[2023-03-03 15:18:42Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2023-03-03 15:18:42Z INFO Listener] RuntimeInformation: Darwin 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:14:54 PDT 2022; root:xnu-8792.41.9~2/RELEASE_X86_64.
+[2023-03-03 15:18:42Z INFO Listener] Version: 2.302.1
+[2023-03-03 15:18:42Z INFO Listener] Commit: b3492cb90f7a757c5a39196f956340fbbbae14d1
+[2023-03-03 15:18:42Z INFO Listener] Culture: en-US
+[2023-03-03 15:18:42Z INFO Listener] UI Culture: en-US
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO Listener] Validating directory permissions for: '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO CommandLineParser] Parse
+[2023-03-03 15:18:42Z INFO CommandLineParser] Parsing 1 args
+[2023-03-03 15:18:42Z INFO CommandLineParser] parsing argument
+[2023-03-03 15:18:42Z INFO CommandLineParser] HasArgs: False
+[2023-03-03 15:18:42Z INFO CommandLineParser] Adding Command: run
+[2023-03-03 15:18:42Z INFO Listener] Arguments parsed
+[2023-03-03 15:18:42Z INFO Runner] ExecuteCommand
+[2023-03-03 15:18:42Z INFO ConfigurationStore] currentAssemblyLocation: /Users/britt/Downloads/myblog/actions-runner/bin/Runner.Listener.dll
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO ConfigurationStore] binPath: /Users/britt/Downloads/myblog/actions-runner/bin
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO ConfigurationStore] RootFolder: /Users/britt/Downloads/myblog/actions-runner
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO HostContext] Well known config file 'Runner': '/Users/britt/Downloads/myblog/actions-runner/.runner'
+[2023-03-03 15:18:42Z INFO ConfigurationStore] ConfigFilePath: /Users/britt/Downloads/myblog/actions-runner/.runner
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO HostContext] Well known config file 'Credentials': '/Users/britt/Downloads/myblog/actions-runner/.credentials'
+[2023-03-03 15:18:42Z INFO ConfigurationStore] CredFilePath: /Users/britt/Downloads/myblog/actions-runner/.credentials
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/britt/Downloads/myblog/actions-runner/.credentials_migrated'
+[2023-03-03 15:18:42Z INFO ConfigurationStore] MigratedCredFilePath: /Users/britt/Downloads/myblog/actions-runner/.credentials_migrated
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO HostContext] Well known config file 'Service': '/Users/britt/Downloads/myblog/actions-runner/.service'
+[2023-03-03 15:18:42Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/britt/Downloads/myblog/actions-runner/.service
+[2023-03-03 15:18:42Z INFO CommandSettings] Flag 'help': 'False'
+[2023-03-03 15:18:42Z INFO CommandSettings] Flag 'version': 'False'
+[2023-03-03 15:18:42Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-03-03 15:18:42Z INFO CommandSettings] Flag 'check': 'False'
+[2023-03-03 15:18:42Z INFO CommandSettings] Command 'configure': 'False'
+[2023-03-03 15:18:42Z INFO CommandSettings] Command 'remove': 'False'
+[2023-03-03 15:18:42Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-03-03 15:18:42Z INFO ConfigurationManager] LoadSettings
+[2023-03-03 15:18:42Z INFO ConfigurationStore] IsConfigured()
+[2023-03-03 15:18:42Z INFO ConfigurationStore] IsConfigured: True
+[2023-03-03 15:18:42Z INFO ConfigurationManager] Is configured: True
+[2023-03-03 15:18:42Z INFO ConfigurationStore] Read setting file: 289 chars
+[2023-03-03 15:18:42Z INFO ConfigurationManager] Settings Loaded
+[2023-03-03 15:18:42Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-03-03 15:18:42Z INFO ConfigurationStore] IsServiceConfigured: True
+[2023-03-03 15:18:42Z INFO CommandSettings] Command 'run': 'True'
+[2023-03-03 15:18:42Z INFO ConfigurationStore] IsConfigured()
+[2023-03-03 15:18:42Z INFO ConfigurationStore] IsConfigured: True
+[2023-03-03 15:18:42Z INFO ConfigurationManager] Is configured: True
+[2023-03-03 15:18:42Z INFO Runner] Try determine runner startup type base on console redirects.
+[2023-03-03 15:18:42Z INFO Runner] Set runner startup type - Manual
+[2023-03-03 15:18:42Z INFO CommandSettings] Flag 'once': 'False'
+[2023-03-03 15:18:42Z INFO CommandSettings] Flag 'once': 'False'
+[2023-03-03 15:18:42Z INFO Runner] RunAsync
+[2023-03-03 15:18:42Z INFO ConfigurationManager] LoadSettings
+[2023-03-03 15:18:42Z INFO ConfigurationStore] IsConfigured()
+[2023-03-03 15:18:42Z INFO ConfigurationStore] IsConfigured: True
+[2023-03-03 15:18:42Z INFO ConfigurationManager] Is configured: True
+[2023-03-03 15:18:42Z INFO ConfigurationManager] Settings Loaded
+[2023-03-03 15:18:42Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "Brittanys-Mini",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/vb7V5C5cAPCcHWlnOwgPHyLrheFEi5gEO4Fu84OEvLFE2z3g9n",
+  "GitHubUrl": "https://github.com/bd6981/myblog-java",
+  "WorkFolder": "_work"
+}
+[2023-03-03 15:18:42Z INFO MessageListener] Loading Credentials
+[2023-03-03 15:18:42Z INFO ConfigurationStore] HasCredentials()
+[2023-03-03 15:18:42Z INFO ConfigurationStore] stored True
+[2023-03-03 15:18:42Z INFO CredentialManager] GetCredentialProvider
+[2023-03-03 15:18:42Z INFO CredentialManager] Creating type OAuth
+[2023-03-03 15:18:42Z INFO CredentialManager] Creating credential type: OAuth
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Bin': '/Users/britt/Downloads/myblog/actions-runner/bin'
+[2023-03-03 15:18:42Z INFO HostContext] Well known directory 'Root': '/Users/britt/Downloads/myblog/actions-runner'
+[2023-03-03 15:18:42Z INFO HostContext] Well known config file 'RSACredentials': '/Users/britt/Downloads/myblog/actions-runner/.credentials_rsaparams'
+[2023-03-03 15:18:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/britt/Downloads/myblog/actions-runner/.credentials_rsaparams
+[2023-03-03 15:18:42Z INFO MessageListener] Attempt to create session.
+[2023-03-03 15:18:42Z INFO MessageListener] Connecting to the Runner Server...
+[2023-03-03 15:18:42Z INFO RunnerServer] EstablishVssConnection
+[2023-03-03 15:18:42Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-03-03 15:18:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-03 15:18:43Z INFO RunnerServer] EstablishVssConnection
+[2023-03-03 15:18:43Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-03-03 15:18:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-03 15:18:43Z INFO RunnerServer] EstablishVssConnection
+[2023-03-03 15:18:43Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-03-03 15:18:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-03 15:18:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-03 15:18:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-03 15:18:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-03 15:18:43Z INFO MessageListener] VssConnection created
+[2023-03-03 15:18:43Z INFO Terminal] WRITE LINE: 
+[2023-03-03 15:18:43Z INFO Terminal] WRITE LINE: 
+[2023-03-03 15:18:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/britt/Downloads/myblog/actions-runner/.credentials_rsaparams
+[2023-03-03 15:18:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/britt/Downloads/myblog/actions-runner/.credentials_rsaparams
+[2023-03-03 15:18:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-03-03 15:18:44Z INFO MessageListener] Session created.
+[2023-03-03 15:18:44Z INFO Terminal] WRITE LINE: Current runner version: '2.302.1'
+[2023-03-03 15:18:44Z INFO Terminal] WRITE LINE: 2023-03-03 15:18:44Z: Listening for Jobs
+[2023-03-03 15:18:44Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-03-03 15:19:13Z INFO Terminal] WRITE LINE: Exiting...
+[2023-03-03 15:19:13Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-03-03 15:19:13Z INFO ConfigurationStore] IsServiceConfigured: True
+[2023-03-03 15:19:13Z INFO Runner] Received Ctrl-C signal, stop Runner.Listener and Runner.Worker.
+[2023-03-03 15:19:13Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-03-03 15:19:13Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/vb7V5C5cAPCcHWlnOwgPHyLrheFEi5gEO4Fu84OEvLFE2z3g9n/_apis/distributedtask/pools/1/messages?sessionId=6da1ffc4-4f1e-476e-9a35-01924a360a85&status=Online&runnerVersion=2.302.1 has been cancelled.
+[2023-03-03 15:19:13Z INFO MessageListener] Get next message has been cancelled.
+[2023-03-03 15:19:13Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-03-03 15:19:13Z INFO Listener] Runner execution been cancelled.

@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Brittanys-Mini",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/vb7V5C5cAPCcHWlnOwgPHyLrheFEi5gEO4Fu84OEvLFE2z3g9n",
+  "gitHubUrl": "https://github.com/bd6981/myblog-java",
+  "workFolder": "_work"
+}
